@@ -4,24 +4,7 @@
 </h1>
 
 # I'm Russell!
-<div id="badges">
-  <a href="https://linkedin.com/in/russell007">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://replit.com/@Ruxy1212">
-    <img src="https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
-  </a>
-  <a href="https://twitter.com/tiny_ruxy">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -36,6 +19,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/russell007)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,9 +43,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruxy1212&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxy1212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -69,6 +55,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center">
 <a href="https://www.buymeacoffee.com/ruxy1212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
+
+---
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/russell007">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://replit.com/@Ruxy1212">
+    <img src="https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
+  </a>
+  <a href="https://twitter.com/tiny_ruxy">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **ruxy1212/ruxy1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
