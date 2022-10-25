@@ -4,14 +4,15 @@
 </h1>
 
 # I'm Russell!
+_"A driven and hardworking tech-enthusiast with the passion of transforming and contributing to the society with gained experience in technology."_
 <img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with PHP and Laravel Framework.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with PHP and Laravel Framework.
 
-- :telescope: I work as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a Software Engineer, contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Customer Support Service.
 
