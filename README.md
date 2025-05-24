@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on StackOverflow and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/russell007)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/russelloje)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -61,13 +61,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/russell007">
+  <a href="https://linkedin.com/in/russelloje">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://replit.com/@Ruxy1212">
     <img src="https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
   </a>
-  <a href="https://twitter.com/tiny_ruxy">
+  <a href="https://twitter.com/ojerussell">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
