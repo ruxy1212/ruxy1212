@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://replit.com/@Ruxy1212">
     <img src="https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
   </a>
-  <a href="https://twitter.com/russelloje">
+  <a href="https://twitter.com/ojerussell">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
