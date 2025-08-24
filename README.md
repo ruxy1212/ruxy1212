@@ -11,7 +11,7 @@ _"A driven and hardworking tech-enthusiast with the passion of transforming and 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with PHP and Laravel Framework.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with JavaScript, PHP and Laravel Framework.
 
 - :telescope: I work as a Software Engineer, contributing to frontend and backend for building web applications.
 
