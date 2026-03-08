@@ -25,11 +25,13 @@ I am a **Full Stack Software Engineer** focused on backend systems and modern we
 
 - :zap: I enjoy solving technical problems, contributing knowledge on StackOverflow, and reading about emerging technologies.
 
-- :mailbox: How to reach me:  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/russelloje)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/russelloje)
 
+---
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://scrimba.com/?via=u01ap5k" title="20% Discount off Scrimba">
+    <img src="https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png" height="300"/>
+  </a>
 </div>
 
 ---
@@ -55,23 +57,21 @@ Technologies I’m exploring:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3JS" width="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" width="40"/>&nbsp;
-
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3JS" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" width="40"/>&nbsp;
 </div>
-
+https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark
 ---
 
 ### :fire: My Stats :
@@ -110,4 +110,13 @@ Technologies I’m exploring:
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+<a href="https://scrimba.com/me/scrims?via=u01ap5k">
+<img src="https://img.shields.io/badge/Scrimba-violet?style=for-the-badge&logo=scrimba&logoColor=white"/>
+</a>
+
+<br />
+<br />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
