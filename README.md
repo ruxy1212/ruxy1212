@@ -71,7 +71,7 @@ Technologies I’m exploring:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" width="40"/>&nbsp;
 </div>
-https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark
+
 ---
 
 ### :fire: My Stats :
@@ -80,7 +80,7 @@ https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark
 <img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruxy1212&theme=highcontrast"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxy1212&layout=compact&theme=vision-friendly-dark)](https://github.com/ruxy1212)
+[![Top Langs](https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark)](https://github.com/ruxy1212)
 
 ---
 
