@@ -80,7 +80,9 @@ Technologies I’m exploring:
 <img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruxy1212&theme=highcontrast"/>
 </p>
 
-[![Top Langs](https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark)](https://github.com/ruxy1212)
+<p>
+<img align="center" style="width:100%" src="https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark"/>
+</p>
 
 ---
 
