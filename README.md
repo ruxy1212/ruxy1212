@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Russell%20Oje&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25&desc=AI%20Engineer%20%C2%B7%20Fullstack%20%26amp%3B%20Blockchain%20Developer&descAlignY=45&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=180&section=header&text=Russell%20Oje&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25&desc=AI%20Engineer%20%C2%B7%20Fullstack%20%26amp%3B%20Blockchain%20Developer&descAlignY=45&descSize=18"/>
 </p>
 
 ---
@@ -119,5 +119,5 @@ Technologies I’m exploring:
 <br />
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=100&section=footer"/>
 </p>
