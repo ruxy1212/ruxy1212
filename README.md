@@ -1,13 +1,10 @@
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Russell%20Oje&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25&desc=AI%20Engineer%20%C2%B7%20Fullstack%20%26amp%3B%20Blockchain%20Developer&descAlignY=45&descSize=18"/>
+</p>
 
-# I'm Russell!
+---
 
-_"A driven and hardworking software engineer passionate about building scalable applications and exploring decentralized technologies."_
-
-<img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
+> *"A driven and hardworking software engineer passionate about building scalable applications and exploring decentralized technologies."* <img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -79,7 +76,9 @@ Technologies I’m exploring:
 <p>
 <img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruxy1212&theme=highcontrast"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruxy1212/ruxy1212/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</p>
 <p>
 <img align="center" style="width:100%" src="https://ruxy.tech/api/top-langs?username=ruxy1212&theme=dark"/>
 </p>
@@ -119,6 +118,6 @@ Technologies I’m exploring:
 <br />
 <br />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
