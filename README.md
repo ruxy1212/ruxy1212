@@ -4,7 +4,7 @@
 
 ---
 
-> *"A driven and hardworking software engineer passionate about building scalable applications and exploring decentralized technologies."* <img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
+> *"Software engineer building scalable applications with a focus on maintainable architectures, reliable APIs, and emerging decentralized technologies."* <img src="https://komarev.com/ghpvc/?username=ruxy1212&style=flat-square&color=blue" alt=""/>
 
 ---
 
